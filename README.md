@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 <div align="center">
-  <img src="https://usa.bootcampcdn.com/wp-content/uploads/sites/108/2021/03/CDG_blog_post_image_02-2-850x412.jpg"/>
+  <img src="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/programming%20evolution.jpg"/>
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
