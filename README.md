@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE_CBYZBbn6TEenr5AO787UcaPe9hDHRNs9g&s"/>
+  <img src="https://cdn.vectorstock.com/i/500p/39/11/programming-and-software-development-web-page-vector-30433911.jpg"/>
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
